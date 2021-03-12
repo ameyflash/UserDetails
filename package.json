@@ -1,0 +1,25 @@
+{
+  "name": "04_users-restful",
+  "version": "1.0.0",
+  "description": "User Sign Up process & storing info in databases",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SignUp",
+    "RESTful",
+    "Node",
+    "Express",
+    "MongoDB",
+    "Body-Parser"
+  ],
+  "author": "Amey More",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.18",
+    "nodemon": "^2.0.7"
+  }
+}
